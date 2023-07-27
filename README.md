@@ -41,4 +41,4 @@ Create a .env file in the root directory and add the necessary environment varia
 
 Open your web browser and navigate to http://localhost:3000 to access the admin dashboard.
 <h2>Contributing</h2>
-We welcome contributions to improve the Ecommerce Admin Dashboard project. If you find any bugs, have feature requests, or want to contribute in any other way, please open an issue or submit a pull request.
+I welcome contributions to improve the Ecommerce Admin Dashboard project. If you find any bugs, have feature requests, or want to contribute in any other way, please open an issue or submit a pull request.
