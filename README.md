@@ -4,7 +4,7 @@
 <img src="./src/admin-1.png" alt="Ecommerce_Store_Screenshot"/>
 
 <h2>Live Demo</h2>
-Check out the live demo of the Ecommerce Store: <span> <a href= https://ecommerce-store-zeta-sable.vercel.app target="_blank"> Ecommerce Admin Dashboard Live Demo. <span>
+Check out the live demo of the Ecommerce Store: <span> <a href=https://ecommerce-admin-phi-seven.vercel.app target="_blank"> Ecommerce Admin Dashboard Live Demo. <span>
 
 <h2>Features</h2>
 <b>Admin Login:</b> Securely log in to the admin dashboard.<br>
