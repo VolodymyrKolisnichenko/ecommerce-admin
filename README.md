@@ -1,48 +1,43 @@
 <h1>Ecommerce Admin Dashboard</h1>
 <h3>Welcome to the Ecommerce Admin Dashboard! This is the admin interface for managing products, orders, and other aspects of the Ecommerce Store.</h3>
 
-<img src="./src/store-2.png" alt="Ecommerce_Store_Screenshot"/>
+<img src="./src/admin-1.png" alt="Ecommerce_Store_Screenshot"/>
 
-Live Demo
-Check out the live demo of the Ecommerce Admin Dashboard: Ecommerce Admin Dashboard Live Demo
+<h2>Live Demo</h2>
+Check out the live demo of the Ecommerce Store: <span> <a href= https://ecommerce-store-zeta-sable.vercel.app target="_blank"> Ecommerce Admin Dashboard Live Demo. <span>
 
-Features
-Admin Login: Securely log in to the admin dashboard.
-Product Management: Add, edit, and delete products available in the store.
-Order Management: View and manage customer orders and update their statuses.
-Category Management: Manage product categories and assign products to relevant categories.
-User Management: View and manage user accounts and permissions.
-Analytics: Access various reports and analytics to gain insights into store performance.
-Tech Stack
-The Ecommerce Admin Dashboard is built using the following technologies:
+<h2>Features</h2>
+<b>Admin Login:</b> Securely log in to the admin dashboard.<br>
+<b>Product Management:</b> Add, edit, and delete products available in the store.<br>
+<b>Order Management:</b> View and manage customer orders and update their statuses.<br>
+<b>Category Management:</b> Manage product categories and assign products to relevant categories.<br>
+<b>User Management:</b> View and manage user accounts and permissions.<br>
+<b>Analytics:</b> Access various reports and analytics to gain insights into store performance.
 
-Frontend: HTML, CSS, JavaScript, React.js
-Backend: Node.js, Express.js
-Database: MongoDB
-Deployment: Vercel
-Getting Started
+<h2>Tech Stack</h2>
+The Ecommerce Admin Dashboard is built using the following <mark>technologies:</mark>:<br>
+
+Frontend: <b>HTML, CSS, Tailwind CSS, React.js, TypeScript, Next.js, Headless UI, PostCSS</b> <br>
+Backend: <b>Next.js, Stripe, Zustand, Axios, Recharts, Zod, Next Cloudinary, Next Themes</b> <br>
+Database: <b>Prisma</b> <br>
+Deployment: <b>Vercel</b> <br>
+
+<h2>Getting Started </h2>
 To run the project locally, follow these steps:
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/ecommerce-admin-dashboard.git
-Install dependencies:
-bash
-Copy code
-cd ecommerce-admin-dashboard
-npm install
-Set up environment variables:
-Create a .env file in the root directory and add the necessary environment variables, such as:
+<h3>Clone the repository:</h3>
+<img src="./src/clone-2.png" alt="clone"/> <br>
 
-env
-Copy code
-REACT_APP_API_BASE_URL=https://api.example.com
-REACT_APP_AUTH_TOKEN=your-auth-token
-Start the development server:
-bash
-Copy code
-npm start
+<h3>Install dependencies:</h3>
+<img src="./src/dep-2.png" alt="dep"/><br>
+
+<h3>Set up environment variables:</h3>
+Create a .env file in the root directory and add the necessary environment variables, such as: <br>
+<img src="./src/env-2.png" alt="env"/>
+
+<h3>Start the development server:</h3>
+<img src="./src/start-2.png" alt="start"/> <br>
+
 Open your web browser and navigate to http://localhost:3000 to access the admin dashboard.
-Contributing
+<h2>Contributing</h2>
 We welcome contributions to improve the Ecommerce Admin Dashboard project. If you find any bugs, have feature requests, or want to contribute in any other way, please open an issue or submit a pull request.
