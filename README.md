@@ -16,6 +16,7 @@ Check out the live demo of the Ecommerce Store: <span> <a href=https://ecommerce
 
 <h2>Tech Stack</h2>
 The Ecommerce Admin Dashboard is built using the following <mark>technologies:</mark>:<br>
+<br>
 
 Frontend: <b>HTML, CSS, Tailwind CSS, React.js, TypeScript, Next.js, Headless UI, PostCSS</b> <br>
 Backend: <b>Next.js, Stripe, Zustand, Axios, Recharts, Zod, Next Cloudinary, Next Themes</b> <br>
