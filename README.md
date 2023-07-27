@@ -15,7 +15,7 @@ Check out the live demo of the Ecommerce Store: <span> <a href=https://ecommerce
 <b>Analytics:</b> Access various reports and analytics to gain insights into store performance.
 
 <h2>Tech Stack</h2>
-The Ecommerce Admin Dashboard is built using the following <mark>technologies:</mark>:<br>
+The Ecommerce Admin Dashboard is built using the following <mark>technologies:</mark><br>
 <br>
 
 Frontend: <b>HTML, CSS, Tailwind CSS, React.js, TypeScript, Next.js, Headless UI, PostCSS</b> <br>
